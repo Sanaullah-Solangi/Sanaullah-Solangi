@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [uhammadsanaullah007.netlify.app](uhammadsanaullah007.netlify.app)
+- 👨‍💻 All of my projects are available at [muhammadsanaullah007.netlify.app](muhammadsanaullah007.netlify.app)
 
 - 💬 Ask me about **HTML,CSS**
 
