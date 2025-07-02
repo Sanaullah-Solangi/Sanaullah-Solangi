@@ -1,47 +1,45 @@
-<p align="middle" > <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/168257270/original/f78696dbacb2929525009ef4f3380f8ebdee8bab/develop-mern-stack-application.jpg" alt="krayush1109" /> </p>
-
-
-<h1 align="center">Hi 👋, I'm Muhammad Sanaullah</h1>
-<h3 align="center">A passionate MERN Stack Developer from Karachi, Pakistan 🇵🇰</h3>
-
-<p align="center">
-  <a href="https://github.com/Sanaullah-Solangi"><img src="https://img.shields.io/github/followers/Sanaullah-Solangi?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="mailto:sanaullahsolangi817@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sana-ullah-22b75b285/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="middle">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/168257270/original/f78696dbacb2929525009ef4f3380f8ebdee8bab/develop-mern-stack-application.jpg" alt="mern-banner" />
 </p>
 
----
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sanaullah-Solangi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Muhammad Sanaullah</h1>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
-- 🎓 I'm currently pursuing **BS in Computer Sciences** from Virtual University of Pakistan
-- 💼 Completed a 1-year MERN Stack training from **Saylani Mass IT Training Program**
-- 🔨 Currently working on a **React-based E-Commerce project**
-- 🚀 Constantly learning **TypeScript**, **Redux Toolkit**, and **Next.js 14 App Router**
-- 📫 Reach me at **sanaullahsolangi817@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" >
+
+- 🔭 I’m currently working on an **E-Commerce Web App using React.js**  
+- 🌱 I’m currently learning **Redux Toolkit, Next.js 14 App Router, and TypeScript**  
+- 💬 Ask me about: `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Firebase`, `Git`  
+- 📫 Reach me at: **sanaullahsolangi817@gmail.com**  
 - 🌐 Portfolio: [sanaullah-portfolio-nu.vercel.app](https://sanaullah-portfolio-nu.vercel.app)
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-ullah-22b75b285/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Sanaullah-Solangi)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=mui)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+---
+
+## 💻 Tech Stack:
+### 👨‍💻 Programming Languages
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+
+### 🧑‍🎨 Frontend
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui)](#)
+
+### ⚙️ Frameworks & Libraries
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#) [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](#)
+
+### 🗄️ Databases & Tools
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+
+### 🔧 Dev Tools
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
@@ -57,36 +55,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanaullah-Solangi&show_icons=true&theme=radical" alt="Sanaullah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaullah-Solangi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sanaullah-Solangi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanaullah-Solangi&theme=dark&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaullah-Solangi&layout=compact&theme=dark)](#)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanaullah-Solangi&theme=gruvbox&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanaullah-Solangi&theme=dracula" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## 💬 Let's Connect!
-
-<a href="https://www.linkedin.com/in/sana-ullah-22b75b285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sanaullahsolangi817@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Sanaullah-Solangi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sanaullah-Solangi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
